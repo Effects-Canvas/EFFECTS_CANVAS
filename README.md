@@ -12,6 +12,15 @@ EFFECTS CANVAS is an intuitive audio plugin host designed specifically for guita
 - **Low-Latency Engine:** Optimized for live performance using high-performance C++/JUCE processing.
 - **VST3 Support:** Full compatibility with your favorite third-party audio plugins.
 - **Minimalist Design:** A clean, distraction-free UI/UX focused on your creativity.
+- **NAM Support:** Load and use `.nam` (Neural Amp Modeler) preset files to emulate real-world amplifiers and gear with neural network accuracy.
+
+---
+
+## NAM (Neural Amp Modeler)
+
+EFFECTS CANVAS supports `.nam` preset files, allowing you to load high-quality neural amp models directly into your signal chain.
+
+NAM is an open-source project licensed under the [MIT License](https://opensource.org/licenses/MIT). For more information, visit the [Neural Amp Modeler GitHub page](https://github.com/sdatkinson/neural-amp-modeler).
 
 ---
 
