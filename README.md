@@ -22,6 +22,30 @@ EFFECTS CANVAS supports `.nam` preset files, allowing you to load high-quality n
 
 NAM is an open-source project licensed under the [MIT License](https://opensource.org/licenses/MIT). For more information, visit the [Neural Amp Modeler GitHub page](https://github.com/sdatkinson/neural-amp-modeler).
 
+
+### macOS — MacBook Pro M4 Pro / 24GB RAM / MOTU M2
+
+| Buffer size | Latency (ms) |
+| ----------: | -----------: |
+| 16 | 3.126 |
+| 32 | 3.792 |
+| 64 | 5.126 |
+| 96 | 6.459 |
+| 128 | 7.792 |
+| 160 | 9.126 |
+| 192 | 10.459 |
+| 224 | 11.792 |
+| 256 | 13.126 |
+| 288 | 14.459 |
+| 320 | 15.792 |
+| 352 | 17.126 |
+| 384 | 18.459 |
+| 416 | 19.792 |
+| 448 | 21.126 |
+| 480 | 22.459 |
+| 512 | 23.792 |
+
+
 ---
 
 ## System Requirements
